@@ -115,7 +115,7 @@ body{
     height: 1rem;
     line-height: 1rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 6px;
+    font-size: 10px;
     position: fixed;
     align-items: center;
     justify-content: center;
@@ -127,7 +127,7 @@ body{
     margin-top: 1rem;
  }
  .score_board{
-    font-size: .9rem;
+    font-size: 1.6rem;
     gap: .6rem;
  }
  #user_score ,#comp_score{
