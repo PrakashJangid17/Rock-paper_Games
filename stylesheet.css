@@ -121,7 +121,7 @@ body{
     justify-content: center;
  }
  #msg{
-    font-size: 1rem;
+    font-size: .8rem;
  }
  .score_board{
     margin-top: 1rem;
@@ -137,3 +137,9 @@ body{
 }
 
  }
+ @media(max-width:425px){
+      #msg{
+    font-size: 1.2rem;
+ }
+ }
+
